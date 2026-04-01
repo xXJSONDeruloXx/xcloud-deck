@@ -1,11 +1,11 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
-  "flags": ["debug", "_root"],
+  "name": "xCloud Deck",
+  "author": "Kurt",
+  "flags": ["debug"],
   "api_version": 1,
   "publish": {
-    "tags": ["template", "root"],
-    "description": "Decky example plugin.",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "tags": ["xbox", "xcloud", "streaming", "steam-deck"],
+    "description": "MVP Decky plugin for Xbox xHome/xCloud streaming on Steam Deck.",
+    "image": "https://opengraph.githubassets.com/1/unknownskl/xbox-xcloud-player"
   }
 }
